@@ -10,12 +10,12 @@
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyD5TXDIaAWXMsEIfaS3MxcrVJ5AwyDagAQ",
-    authDomain: "firegram-netninja-884cf.firebaseapp.com",
-    projectId: "firegram-netninja-884cf",
-    storageBucket: "firegram-netninja-884cf.appspot.com",
-    messagingSenderId: "228445110527",
-    appId: "1:228445110527:web:78a7d7008defd4bdb30cca"
+    apiKey: "**************************************************",
+    authDomain: "**********************************************",
+    projectId: "***********************************************",
+    storageBucket: "*******************************************",
+    messagingSenderId: ""**************************************",
+    appId: ""**************************************************"
   };
 
   // Initialize Firebase
